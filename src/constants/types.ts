@@ -1,0 +1,2 @@
+export const ADD_NOTE = "ADD_NOTE";
+export const SELECT_RADIO_OPTION = "SELECT_RADIO_OPTION";
